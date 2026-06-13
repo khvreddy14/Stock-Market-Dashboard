@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+
+
+ install using :
+pip install -r requirements.txt
+
